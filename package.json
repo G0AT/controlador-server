@@ -1,0 +1,19 @@
+{
+  "name": "controlador-server",
+  "version": "1.0.0",
+  "description": "Sistema de control de finanzas para gastos mensuales y controlador de ingresos y egresos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G0AT/controlador-server.git"
+  },
+  "author": "Miguel Ángel González López",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G0AT/controlador-server/issues"
+  },
+  "homepage": "https://github.com/G0AT/controlador-server#readme"
+}
